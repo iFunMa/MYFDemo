@@ -10,6 +10,9 @@
 
 @interface ViewController ()
 
+@property (nonatomic, strong) UITableView *tableView;
+@property (nonatomic, strong) UIButton *button;
+
 @end
 
 @implementation ViewController
