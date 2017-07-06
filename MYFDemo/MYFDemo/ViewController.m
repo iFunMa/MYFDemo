@@ -20,8 +20,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"12314231212312321312321321");
-    NSLog(@"123");
+    NSLog(@"1231423123");
+    NSLog(@"mayifang bug");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
