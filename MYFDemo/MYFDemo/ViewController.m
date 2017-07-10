@@ -22,6 +22,7 @@
     [super viewDidLoad];
     NSLog(@"12314231212312321312321321");
     NSLog(@"123");
+    mayifang;
     // Do any additional setup after loading the view, typically from a nib.
 }
 
